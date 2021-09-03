@@ -1,0 +1,10 @@
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/libasync_trait-dfa330da16517329.so: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/args.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lifetime.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/parse.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/receiver.rs
+
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/async_trait-dfa330da16517329.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/args.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lifetime.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/parse.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/receiver.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/args.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/expand.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/lifetime.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/parse.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/async-trait-0.1.51/src/receiver.rs:

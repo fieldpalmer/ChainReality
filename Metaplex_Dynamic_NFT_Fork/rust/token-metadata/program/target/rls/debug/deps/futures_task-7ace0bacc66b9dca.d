@@ -1,0 +1,11 @@
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/futures_task-7ace0bacc66b9dca.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs
+
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/futures_task-7ace0bacc66b9dca.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/spawn.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/arc_wake.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/waker_ref.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/future_obj.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.16/src/noop_waker.rs:

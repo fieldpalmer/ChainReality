@@ -1,0 +1,11 @@
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/libloading-436bb1e630c71493.rmeta: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/libloading-436bb1e630c71493.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs:

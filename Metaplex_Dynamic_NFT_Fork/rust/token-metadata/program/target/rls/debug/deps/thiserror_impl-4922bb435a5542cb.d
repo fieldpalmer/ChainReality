@@ -1,0 +1,11 @@
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/libthiserror_impl-4922bb435a5542cb.so: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/ast.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/attr.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/fmt.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/prop.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/valid.rs
+
+/home/loopmonkey/Desktop/metaplex2/rust/token-metadata/program/target/rls/debug/deps/thiserror_impl-4922bb435a5542cb.d: /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/lib.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/ast.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/attr.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/expand.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/fmt.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/prop.rs /home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/valid.rs
+
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/lib.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/ast.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/attr.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/expand.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/fmt.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/prop.rs:
+/home/loopmonkey/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.28/src/valid.rs:
