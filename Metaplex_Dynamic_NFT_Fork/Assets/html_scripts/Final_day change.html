@@ -1,0 +1,36 @@
+<html>
+<body>
+
+<img id="myImage"  src ="" width="200" height="200">
+
+
+<script>
+setInterval(changeImage(), 1000);
+function changeImage() {
+  var image = document.getElementById("myImage");
+  var now = new Date();
+  var hour = now.getHours();
+  var minute = now.getMinutes();
+  var second = now.getSeconds();
+  
+
+  if (hour>6 & hour<12) {
+    image.src = "https://pxpplrc5lixtrhknp4wpuot2axmmxmekowft2rk5mg574vayc4iq.arweave.net/fd71xF1aLzidTX8s-jp6BdjLsIp1iz1FXWG7_lQYFxE";
+  } else if (hour>=12 & hour<15){
+    image.src = "https://ugzkidi6jk7b6mmfzuklgsqfi6ws3m6pyvwixstl5i74mmq3jzsq.arweave.net/obKkDR5Kvh8xhc0Us0oFR60ts8_FbIvKa-o_xjIbTmU";
+  }
+  else if (hour>=15 & hour<18){
+    image.src = "https://qyb5q3j4zqzcpdu27fi23f2j3uiqbbgqle52ig7gyfiakvsq2n2a.arweave.net/hgPYbTzMMieOmvlRrZdJ3REAhNBZO6Qb5sFQBVZQ03Q";
+  }
+  else if (hour>=18 | hour<6){
+    image.src = "https://avotgiekvl3te53ddprxe3dskp5kw25s3fzg6auulsnxruf43brq.arweave.net/BV0zIIqq9zJ3YxvjcmxyU_qra7LZcm8ClFybeNC82GM";
+  }
+}
+
+
+
+</script>
+
+</body>
+</html>
+
