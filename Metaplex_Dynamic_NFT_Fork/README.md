@@ -14,3 +14,7 @@ Please go through the below architecture pages and video demo before proceeding 
 ![alt text](https://github.com/rohitchillar/ChainReality/blob/main/Metaplex_Dynamic_NFT_Fork/Assets/Architecture/Intricate_Solution.png)
 
 ![Demo Video](https://www.youtube.com/watch?v=5m7CaAgNkmo)
+
+## Alpha
+
+- As shown in the video, you can follow the normal process of creating an NFT and choose the scripting option from the UI. 
