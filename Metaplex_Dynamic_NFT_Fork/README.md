@@ -26,4 +26,8 @@ Note: While creating the NFT you will get around 4 transaction approve notificat
 
 - As shown in the video, you can follow the normal process of creating an NFT and choose the image option.
 - Right now the conditions are hard coded in the rust program and they get triggered if the value of condition variable is 1 or 2. In the future, the user will have an option to input the conditions while creating NFT.
-- Similarly, on the js side the current conditions will be an input from the frontend which will be validated by the 
+- Similarly, on the js side the current conditions will be an input from the frontend which will be validated by the rust program. Right now these inputs are also harcoded.
+- When you will evolve the NFT according to the current conditions the picture should change to venasaur. It might not render correctly on the metaplex page but you can see that the NFT has evolved by clicking on the Arweave button. 
+
+
+Note: When we try to clone the github repo and run it we get this error. *Cannot find module '@solana/spl-token-registry' or its corresponding type declarations.* But the code runs successfully on the our local pc. 
