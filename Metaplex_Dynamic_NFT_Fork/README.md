@@ -1,5 +1,14 @@
 Built on top of Metaplex. Please go through the README_metaplex first. 
 
+###How to get started: 
+
+- Replace the REACT_APP_STORE_OWNER_ADDRESS_ADDRESS=YOUR_PUBLIC_WALLET_ADDRESS in js/packages/web/.env to connect to your own phantom wallet.
+- Run yarn and yarn build and check for errors. (Make sure the dependencies are satisfied. There might be some dependency issues while testing on another system)
+- Run yarn start. Your webpage will now get hosted on you local server port 3000. Make sure that both your wallet and the metaplex store are connected to the devnet.
+- Init the store. Now, if you are able to view the blank store you should be all set.
+
+Please go through the below architecture pages and video demo before proceeding ahead.  
+
 ![alt text](https://github.com/rohitchillar/ChainReality/blob/main/Metaplex_Dynamic_NFT_Fork/Assets/Architecture/Elegant_Solution.png)
 
 ![alt text](https://github.com/rohitchillar/ChainReality/blob/main/Metaplex_Dynamic_NFT_Fork/Assets/Architecture/Intricate_Solution.png)
