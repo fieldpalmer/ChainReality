@@ -1,6 +1,6 @@
 Built on top of Metaplex. Please go through the README_metaplex first. 
 
-##How to get started: 
+## How to get started: 
 
 - Replace the REACT_APP_STORE_OWNER_ADDRESS_ADDRESS=YOUR_PUBLIC_WALLET_ADDRESS in js/packages/web/.env to connect to your own phantom wallet.
 - Run yarn and yarn build and check for errors. (Make sure the dependencies are satisfied. There might be some dependency issues while testing on another system)
